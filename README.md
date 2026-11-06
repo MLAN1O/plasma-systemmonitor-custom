@@ -20,8 +20,6 @@ QML use the generated configuration instead.
 
 <img src="docs/overview.png" alt="Customized Plasma System Monitor overview" width="100%">
 
-*Screenshot: © 2026 Max L. Junior, licensed under CC BY 4.0.*
-
 ## Requirements
 
 - KDE Plasma 6 with Plasma System Monitor.
@@ -91,7 +89,4 @@ The QML faces and templates are based on KDE Plasma System Monitor code and are
 licensed under LGPL-2.0-or-later. See `LICENSES/LGPL-2.0-or-later.txt`.
 
 The card icons have their own licenses; see `card-icons/SOURCES.md` and
-`LICENSES/`.
-
-The screenshot in `docs/overview.png` is © 2026 Max L. Junior and licensed
-under CC BY 4.0.
+`LICENSES/`
