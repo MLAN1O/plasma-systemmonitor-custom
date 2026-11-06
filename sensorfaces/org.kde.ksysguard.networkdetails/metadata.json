@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "KSysguard/SensorFace",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Max"
+            }
+        ],
+        "Description": "Redes com sub-cards, download e upload",
+        "Icon": "network-wired",
+        "Id": "org.kde.ksysguard.networkdetails",
+        "License": "LGPL-2.0-or-later",
+        "Name": "Redes (detalhes)",
+        "Version": "1.0"
+    },
+    "X-KDE-ParentApp": "org.kde.plasmashell"
+}

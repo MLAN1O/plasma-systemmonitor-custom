@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "KSysguard/SensorFace",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Max"
+            }
+        ],
+        "Description": "Barras horizontais com espaço usado e livre empilhados",
+        "Icon": "drive-harddisk",
+        "Id": "org.kde.ksysguard.diskusage",
+        "License": "LGPL-2.0-or-later",
+        "Name": "Discos (usado/livre)",
+        "Version": "1.0"
+    },
+    "X-KDE-ParentApp": "org.kde.plasmashell"
+}

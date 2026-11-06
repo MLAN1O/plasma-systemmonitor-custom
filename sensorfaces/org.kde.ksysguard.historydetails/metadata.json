@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "KSysguard/SensorFace",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Max"
+            }
+        ],
+        "Description": "Histórico de uso no topo e valores em lista",
+        "Icon": "office-chart-line",
+        "Id": "org.kde.ksysguard.historydetails",
+        "License": "LGPL-2.0-or-later",
+        "Name": "Histórico + detalhes",
+        "Version": "1.0"
+    },
+    "X-KDE-ParentApp": "org.kde.plasmashell"
+}

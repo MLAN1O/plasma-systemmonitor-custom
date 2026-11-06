@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "KSysguard/SensorFace",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Max"
+            }
+        ],
+        "Description": "Histórico de uso e detalhes da CPU",
+        "Icon": "cpu",
+        "Id": "org.kde.ksysguard.cpudetails",
+        "License": "LGPL-2.0-or-later",
+        "Name": "CPU (histórico + detalhes)",
+        "Version": "1.0"
+    },
+    "X-KDE-ParentApp": "org.kde.plasmashell"
+}

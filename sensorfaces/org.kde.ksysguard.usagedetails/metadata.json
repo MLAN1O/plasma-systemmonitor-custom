@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "KSysguard/SensorFace",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Max"
+            }
+        ],
+        "Description": "Barra de uso com detalhes de memória ou swap",
+        "Icon": "office-chart-bar",
+        "Id": "org.kde.ksysguard.usagedetails",
+        "License": "LGPL-2.0-or-later",
+        "Name": "Barra de uso (memória/swap)",
+        "Version": "1.0"
+    },
+    "X-KDE-ParentApp": "org.kde.plasmashell"
+}
